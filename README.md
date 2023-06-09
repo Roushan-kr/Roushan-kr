@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Roushan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript and linix
+- 👋 Hi, I’m Roushan Jha
+- 👀 I’m interested to code
+- 🌱 I’m currently learning javascript and Cpp
 
 
 <!---
