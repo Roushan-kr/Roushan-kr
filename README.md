@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Roushan Jha
+- 👋 Hi, I’m Roushan
 - 👀 I’m interested to code
 - 🌱 I’m currently learning javascript and Cpp
+- 🤷‍♂️ Fell free to connect me 
 
 
 <!---
