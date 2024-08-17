@@ -1,6 +1,7 @@
 # Roushan kr
 
 ## profile 
+![](https://komarev.com/ghpvc/?username=your-github-Roushan-kr&abbreviated=true&color=blue)
 
 ![GitHub Streak](https://github-readme-streak-stats-tau-sooty.vercel.app?user=Roushan-kr&theme=radical)
 
