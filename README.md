@@ -1,13 +1,32 @@
-# Roushan kr
+# Hello world, I'm Roushan 👋
 
-## profile 
-![](https://komarev.com/ghpvc/?username=your-github-Roushan-kr&abbreviated=true&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Roushan-kr&abbreviated=true&color=blue)
 
-![GitHub Streak](https://github-readme-streak-stats-tau-sooty.vercel.app?user=Roushan-kr&theme=radical)
+## About me
 
-I am developer, gamer, and Traveller commonly found with js for daily code
-- formally cpp and js dev
-- concact: [admin@devroush.tech](mailto:admin@devroush.tech)
+Developer • Traveller • Builder • Occasional gamer 
 
-## My public repo say's 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+Mostly found writing JavaScript and breaking things until they work again.
+
+- Backend & full-stack focused
+- Previously spent time with C++ and system concepts
+- Currently building things around **Node.js, TypeScript, APIs, and data pipelines**
+
+Sometimes experimenting with:
+- debugging something unnecessarily deep
+- distributed systems
+- IoT / telemetry data
+- developer tools
+
+I started with C++ and system concepts, which is probably why I still enjoy
+thinking about memory, concurrency, and performance even when working in
+higher-level stacks.
+
+📫 reach me:  
+admin@devroush.tech
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Roushan-kr&theme=tokyonight" />
+</p>
