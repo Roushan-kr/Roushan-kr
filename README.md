@@ -23,7 +23,7 @@ thinking about memory, concurrency, and performance even when working in
 higher-level stacks.
 
 📫 reach me:  
-admin@devroush.tech
+admin@fossptu.dev
 
 ## GitHub Activity
 
